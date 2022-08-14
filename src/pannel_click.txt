@@ -1,0 +1,3 @@
+shift + con + g => commit
+shift + com + e => file
+shift + com + x => extensions
